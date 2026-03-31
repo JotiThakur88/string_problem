@@ -8,6 +8,7 @@ leet code to git
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,11 +19,13 @@ leet code to git
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/JotiThakur88/string_problem/tree/main/0796-rotate-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +66,16 @@ leet code to git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/JotiThakur88/string_problem/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
