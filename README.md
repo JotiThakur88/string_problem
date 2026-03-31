@@ -21,6 +21,7 @@ leet code to git
 | [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/JotiThakur88/string_problem/tree/main/0796-rotate-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JotiThakur88/string_problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@ leet code to git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JotiThakur88/string_problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
