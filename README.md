@@ -15,6 +15,7 @@ leet code to git
 | [0151-reverse-words-in-a-string](https://github.com/JotiThakur88/string_problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,20 @@ leet code to git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/JotiThakur88/string_problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
