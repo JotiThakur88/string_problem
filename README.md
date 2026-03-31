@@ -18,6 +18,7 @@ leet code to git
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/JotiThakur88/string_problem/tree/main/0257-binary-tree-paths/) | Easy |
+| [0796-rotate-string](https://github.com/JotiThakur88/string_problem/tree/main/0796-rotate-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,8 @@ leet code to git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/JotiThakur88/string_problem/tree/main/0010-regular-expression-matching/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/JotiThakur88/string_problem/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
