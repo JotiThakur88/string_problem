@@ -15,6 +15,7 @@ leet code to git
 | [0010-regular-expression-matching](https://github.com/JotiThakur88/string_problem/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/string_problem/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/JotiThakur88/string_problem/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/JotiThakur88/string_problem/tree/main/0043-multiply-strings/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/JotiThakur88/string_problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
@@ -83,4 +84,12 @@ leet code to git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JotiThakur88/string_problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/JotiThakur88/string_problem/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/JotiThakur88/string_problem/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
