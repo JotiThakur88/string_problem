@@ -6,6 +6,7 @@ leet code to git
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/JotiThakur88/string_problem/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -17,6 +18,7 @@ leet code to git
 | [0032-longest-valid-parentheses](https://github.com/JotiThakur88/string_problem/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/JotiThakur88/string_problem/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/JotiThakur88/string_problem/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/JotiThakur88/string_problem/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/JotiThakur88/string_problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JotiThakur88/string_problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
@@ -27,12 +29,14 @@ leet code to git
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/JotiThakur88/string_problem/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/JotiThakur88/string_problem/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/JotiThakur88/string_problem/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/string_problem/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/JotiThakur88/string_problem/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
